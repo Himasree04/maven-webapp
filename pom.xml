@@ -5,36 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>cicd-webapp</artifactId>
+    <artifactId>webapp</artifactId>
     <version>1.0</version>
     <packaging>war</packaging>
 
-    <name>CI-CD Web App</name>
-
     <build>
         <finalName>myapp</finalName>
-
-        <plugins>
-
-            <!-- Compiler Plugin -->
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-compiler-plugin</artifactId>
-                <version>3.8.1</version>
-                <configuration>
-                    <source>1.8</source>
-                    <target>1.8</target>
-                </configuration>
-            </plugin>
-
-            <!-- WAR Plugin -->
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-war-plugin</artifactId>
-                <version>3.3.1</version>
-            </plugin>
-
-        </plugins>
     </build>
 
 </project>
