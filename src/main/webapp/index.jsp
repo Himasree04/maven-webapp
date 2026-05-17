@@ -1,5 +1,0 @@
-<html>
-<body>
-<h1>Hello! CI/CD Working 🚀</h1>
-</body>
-</html>
