@@ -1,5 +1,6 @@
 <html>
 <body>
-<h1>Hello CI/CD Working 🚀</h1>
+<h1>Welcome to My DevOps Project</h1>
+<p>Application updated successfully using Jenkins & Docker</p>
 </body>
 </html>
